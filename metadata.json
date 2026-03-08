@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Retiradas",
+  "description": "Sistema de geração de códigos e controle de retiradas de dispositivos integrado ao Google Sheets.",
+  "requestFramePermissions": []
+}
